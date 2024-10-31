@@ -20,6 +20,5 @@ public class SearchTest {
         open("https://demoqa.com/text-box");
         $("#userName").sendKeys("Alex Petrov");
         $("#userEmail").sendKeys("AlexPetrov@mail.com");
-
     }
 }
